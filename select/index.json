@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "歌うたいのバラッド(ENCORE)",
+  "base_artist": "斉藤和義",
+  "createdAt": "2025-12-06T01:11:36.327304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歌うたいのバラッド(ENCORE)",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": true,
+      "path": "select/01_歌うたいのバラッド(ENCORE)_Kazuyoshi_Saito.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌うたいのバラッド [Live]",
+      "artist": "斉藤 和義",
+      "has_synced": false,
+      "path": "select/pl_01_歌うたいのバラッド_[Live]_斉藤_和義.txt"
+    }
+  ]
+}
